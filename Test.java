@@ -3,6 +3,7 @@ package OPR_UE01;
 public class Test {
 
 	public void thisIsANewMethod() {
+		System.out.print("Hello Git2")
 
 	}
 
