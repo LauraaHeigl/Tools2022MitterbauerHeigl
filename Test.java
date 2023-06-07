@@ -7,6 +7,7 @@ public class Test {
 
 		System.out.print("Hello World");
 		System.out.print("Hello Git");
+		System.out.print("Hello Git2");
 		
 	}
 
