@@ -9,6 +9,11 @@ public class Test {
 		int x = 5;
 		
 	}
+	
+	public void thisIsAlsoANewTest() {
+		
+		System.out.println("Hello GubFix");
+	}
 
 	public static void main(String[] args) {
 
